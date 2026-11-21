@@ -1,10 +1,6 @@
 # first
 
-Python 연습용 저장소.
-
-## 파일
-- `hello.py`: 문장 한 줄 출력
-- `daeun.py`: hello world 출력 + 계산기 (`add`, `minus` 함수)
+Python 연습용 저장소. 아직 코드 파일은 없음.
 
 ## 규칙
 - main 브랜치에 직접 커밋하거나 push하지 말 것
